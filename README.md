@@ -1,15 +1,23 @@
 ## VisualStudio 2019 Lite - Offline Installer
+
 **A lightweight Visual Studio 2019 offline installer created by myself.**
 
 ## What's special about my offline installer? 
+
 **Other Visual Studio 2019 offline installers on the internet are more than 40GB in size, while mine is 4 times smaller because I only let Visual Studio do what it's good at.**
+
 **Visual Studio is no doubt the best C++ and C# IDE on Windows but only on Windows. When it comes to cross platform, Visual Studio sucks!**
+
 **Since we already have plenty of other tools that are not only free but also 100x better than Visual Studio for tasks like Python development and Linux development, including these workloads in Visual Studio is a complete waste.**
+
 **So I excluded them.**
+
 **Moreover, a good programmer is unlikely to be unfamiliar with English. Therefore, I excluded all language packs except en-us.**
+
 **Eventually, that gives me a lightweight offline installer that is only 10.4 GB in size, 4 times smaller than what other websites would give you!**
 
 ## Included components: 
+
 ```
 {
   "version": "1.0",
