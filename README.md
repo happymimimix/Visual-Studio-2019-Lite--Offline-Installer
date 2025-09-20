@@ -10,7 +10,7 @@
 
 **Since we already have plenty of other tools that are not only free but also 100x better than Visual Studio for tasks like Python development and Linux development, including these workloads in Visual Studio is a complete waste.**
 
-**So I excluded them.**
+**So I excluded them in my offline installer.**
 
 **Moreover, a good programmer is unlikely to be unfamiliar with English. Therefore, I excluded all language packs except en-us.**
 
